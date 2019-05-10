@@ -1,0 +1,8 @@
+Requirements :
+Account Name
+Pin Number
+Loan Amount
+Maturity Date
+Insured Amount
+Status - Finished Unfinished 
+Branch Number
